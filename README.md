@@ -1,4 +1,4 @@
-# Arduino_Glove_Ctrl_Car
+# Arduino 1/16 Car remote controlled by gestures 
 
 Introduction
 
