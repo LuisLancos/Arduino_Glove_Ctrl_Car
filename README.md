@@ -1,4 +1,4 @@
-# Arduino 1/16 Car remote controlled by gestures 
+# 1/16 Car remote controlled by gestures - Arduino project
 
 Introduction
 
@@ -6,7 +6,7 @@ This was my first project in Arduino. The project uses an IMU with accelerator a
 
 The position of te IMU is then translated into angles along the x and y axes (the z axe is calculated but for now ignored). The X axis to acceleration, forward and backward movement and, Y axis to fine left and right. 
 
-The action ( Forward, Stop, Left, Right ) is concatnated together with the angle on both axes and then sent to the car via bluetooth.
+The action ( Forward, Stop, Left, Right ) is concatenated together with the angle on both axes and then sent to the car via bluetooth.
 
 Using the HC-05 and HC-06 bluetooth modules paired as master and slave to establish the communication between glove and car. 
 
