@@ -1,8 +1,8 @@
 # 1/16 Car remote controlled by gestures - Arduino project
 
-Introduction
+## Introduction
 
-This was my first project in Arduino. The project uses an IMU with accelerator and gyroscope to detect the hand position. This is done using the IMU 6050. 
+*This was my first project in Arduino.* The project uses an IMU with accelerator and gyroscope to detect the hand position. This is done using the IMU 6050. 
 
 The position of te IMU is then translated into angles along the x and y axes (the z axe is calculated but for now ignored). The X axis to acceleration, forward and backward movement and, Y axis to fine left and right. 
 
